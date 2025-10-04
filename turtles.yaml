@@ -1,0 +1,6 @@
+---
+kind: PluginSet
+id: adpn-plugin-set
+name: ADPNet Plugin Set
+builder:
+  type: maven

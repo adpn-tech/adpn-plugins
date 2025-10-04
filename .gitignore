@@ -1,0 +1,8 @@
+# Ignore Maven output directory
+/target/
+
+# Ignore plugin packager log directory
+/logs/
+
+# Ignore IntelliJ directory
+/.idea/
